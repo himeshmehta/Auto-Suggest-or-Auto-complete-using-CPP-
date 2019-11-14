@@ -1,4 +1,4 @@
-# Auto-Suggest-and-Auto-complete-using-C-
+# Auto-Suggest-and-Auto-complete-using-CPP-
 PROJECT OVERVIEW :-
 
 We all know that trie is tree like data structure which is used to store key . Main advantage of trie is  searching a key . This can be done be in O( length_of_key ) which is very fast in compare to naive search where we check for every word in our collections that it matches with key.
